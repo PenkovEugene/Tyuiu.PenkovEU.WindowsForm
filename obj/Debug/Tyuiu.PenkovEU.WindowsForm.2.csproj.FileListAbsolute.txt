@@ -1,0 +1,10 @@
+D:\Магистратура\Спирин\Tyuiu.PenkovEU.WindowsForm.2\bin\Debug\Tyuiu.PenkovEU.WindowsForm.2.exe.config
+D:\Магистратура\Спирин\Tyuiu.PenkovEU.WindowsForm.2\bin\Debug\Tyuiu.PenkovEU.WindowsForm.2.exe
+D:\Магистратура\Спирин\Tyuiu.PenkovEU.WindowsForm.2\bin\Debug\Tyuiu.PenkovEU.WindowsForm.2.pdb
+D:\Магистратура\Спирин\Tyuiu.PenkovEU.WindowsForm.2\obj\Debug\Tyuiu.PenkovEU.WindowsForm.2.csproj.AssemblyReference.cache
+D:\Магистратура\Спирин\Tyuiu.PenkovEU.WindowsForm.2\obj\Debug\Tyuiu.PenkovEU.WindowsForm._2.MyForm2.resources
+D:\Магистратура\Спирин\Tyuiu.PenkovEU.WindowsForm.2\obj\Debug\Tyuiu.PenkovEU.WindowsForm._2.Properties.Resources.resources
+D:\Магистратура\Спирин\Tyuiu.PenkovEU.WindowsForm.2\obj\Debug\Tyuiu.PenkovEU.WindowsForm.2.csproj.GenerateResource.cache
+D:\Магистратура\Спирин\Tyuiu.PenkovEU.WindowsForm.2\obj\Debug\Tyuiu.PenkovEU.WindowsForm.2.csproj.CoreCompileInputs.cache
+D:\Магистратура\Спирин\Tyuiu.PenkovEU.WindowsForm.2\obj\Debug\Tyuiu.PenkovEU.WindowsForm.2.exe
+D:\Магистратура\Спирин\Tyuiu.PenkovEU.WindowsForm.2\obj\Debug\Tyuiu.PenkovEU.WindowsForm.2.pdb

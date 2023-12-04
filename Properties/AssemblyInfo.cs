@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Tyuiu.PenkovEU.WindowsForm")]
+[assembly: AssemblyTitle("Tyuiu.PenkovEU.WindowsForm.2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Tyuiu.PenkovEU.WindowsForm")]
+[assembly: AssemblyProduct("Tyuiu.PenkovEU.WindowsForm.2")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("6c5b2797-47ec-48c3-82b0-c85bb172d20b")]
+[assembly: Guid("89d08351-961e-46e5-b3f6-457b08b77eb9")]
 
 // Version information for an assembly consists of the following four values:
 //

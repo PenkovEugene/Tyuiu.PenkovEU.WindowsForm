@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Tyuiu.PenkovEU.WindowsForm.Properties
+namespace Tyuiu.PenkovEU.WindowsForm._2.Properties
 {
 
 
