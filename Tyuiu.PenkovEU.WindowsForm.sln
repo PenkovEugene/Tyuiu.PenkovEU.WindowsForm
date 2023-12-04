@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.PenkovEU.WindowsForm.1", "Tyuiu.PenkovEU.WindowsForm.1.csproj", "{6C5B2797-47EC-48C3-82B0-C85BB172D20B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FirstTask", "FirstTask", "{A95CA863-5941-436E-8B87-EA96BB1BA918}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SecondTask", "SecondTask", "{6E1D2CDD-3E66-40EA-9CD4-CAA8E0E3D175}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.PenkovEU.WindowsForm.2", "..\Tyuiu.PenkovEU.WindowsForm.2\Tyuiu.PenkovEU.WindowsForm.2.csproj", "{89D08351-961E-46E5-B3F6-457B08B77EB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C5B2797-47EC-48C3-82B0-C85BB172D20B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C5B2797-47EC-48C3-82B0-C85BB172D20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C5B2797-47EC-48C3-82B0-C85BB172D20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C5B2797-47EC-48C3-82B0-C85BB172D20B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89D08351-961E-46E5-B3F6-457B08B77EB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D08351-961E-46E5-B3F6-457B08B77EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D08351-961E-46E5-B3F6-457B08B77EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D08351-961E-46E5-B3F6-457B08B77EB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6C5B2797-47EC-48C3-82B0-C85BB172D20B} = {A95CA863-5941-436E-8B87-EA96BB1BA918}
+		{89D08351-961E-46E5-B3F6-457B08B77EB9} = {6E1D2CDD-3E66-40EA-9CD4-CAA8E0E3D175}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDC71901-D33B-4C23-86FD-5F7A94D9E50D}
+	EndGlobalSection
+EndGlobal
